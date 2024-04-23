@@ -1,3 +1,5 @@
+//SWITCH
+
 #include <iostream>
 
 int main() {

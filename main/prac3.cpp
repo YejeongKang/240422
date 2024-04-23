@@ -1,4 +1,7 @@
+//IF2
+
 #include <iostream>
+
 int main() {
 	std::cout << "이름을 입력하세요.\n";
 	std::string name;

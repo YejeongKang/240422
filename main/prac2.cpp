@@ -1,4 +1,7 @@
+//IF1
+
 #include <iostream>
+
 int main() {
 	std::cout << "나이를 입력하세요.\n";
 

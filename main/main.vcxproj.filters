@@ -18,10 +18,10 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="prac1.cpp">
+    <ClCompile Include="prac2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="pracif3.cpp">
+    <ClCompile Include="prac3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="prac4.cpp">

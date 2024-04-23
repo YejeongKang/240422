@@ -17,8 +17,9 @@ int main() {
 	std::cout << "연산자를 입력하시오.\n";
 	std::cin >> oper;
 
-	switch (oper) {
-
+	switch (oper) // 변수는 정수형과 열거형 타입만 넣을 수 있다.
+	{
+	// char 타입은 ''로 감싸줘야 함.
 	case '+' :
 		re = a + b;
 		break;

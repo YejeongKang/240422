@@ -17,25 +17,25 @@ int main() // 정의
 {	// 코드 블럭
 
 	// 콘솔 문자 "출력"
-	//std::cout << "Hello, World.\n";
+	std::cout << "hello, world.\n";
 
-	//int num;
+	int num;
 
 	// 콘솔 문자 "입력"
-	//std::cin >> num;
+	std::cin >> num;
 
 	//// main 함수 연습
-	//int number;
-	//std::cout << "숫자를 입력해주세요: ";
-	//std::cin >> number;
-	//std::cout << number;
+	int number;
+	std::cout << "숫자를 입력해주세요: ";
+	std::cin >> number;
+	std::cout << number;
 
-	//std::string MyName = "Yejeong";
+	std::string myname = "yejeong";
 
-	//char test2 = 'A'; //65
-	//
-	//char test1 = 'B'; //66	
-	//
+	char test2 = 'a'; //65
+	
+	char test1 = 'b'; //66	
+	
 	std::string test3 = "포스코";
 	std::string test4 = "포스코";
 	test4 = "코딩온";

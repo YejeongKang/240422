@@ -3,10 +3,10 @@
 #include <iostream>
 
 int main() {
-	int a;
-	int b;
+	float a;
+	float b;
 	char oper;
-	float re = 0;
+	float re;
 
 	std::cout << "정수 1을 입력하시오.\n";
 	std::cin >> a;
@@ -33,10 +33,6 @@ int main() {
 
 	case '/':
 		re = a / b;
-		break;
-
-	case '%':
-		re = a % b;
 		break;
 
 	default :

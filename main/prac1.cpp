@@ -1,7 +1,9 @@
 #include <iostream>
 int main() {
 	std::cout << "나이를 입력하세요.\n";
+
 	int age = 0;
+
 	std::cin >> age;
 
 	std::string result;

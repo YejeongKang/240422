@@ -6,7 +6,7 @@ int main() {
 	float a;
 	float b;
 	char oper;
-	float re;
+	float re = 0;
 
 	std::cout << "정수 1을 입력하시오.\n";
 	std::cin >> a;
